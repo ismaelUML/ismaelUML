@@ -32,7 +32,7 @@
 
 <!-- Real-Time GitHub Stats Cards (Dark + Purple Theme) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismaelUML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e1e&title_color=A855F7&icon_color=007acc&text_color=cccccc" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ismaelUML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e1e&title_color=A855F7&icon_color=007acc&text_color=cccccc" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelUML&theme=tokyonight&hide_border=true&background=1e1e1e&ring=A855F7&fire=007acc&currStreakNum=A855F7&sideNums=cccccc&sideLabels=858585&dates=858585" width="49%" alt="GitHub Streak" />
 </p>
 
